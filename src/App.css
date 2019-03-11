@@ -39,3 +39,16 @@
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
 }
+
+/* about style */
+.about{
+  padding: 100px 0px;
+}
+.about h1{
+  font-size: 70px;
+  color: #000;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
