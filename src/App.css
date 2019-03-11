@@ -18,7 +18,7 @@
   color: #fff;
 }
 .why_bofu{
-  background: #ccc;
+  background: rgb(241, 239, 239);
   color: #000;
   font-family: 'Montserrat', sans-serif;
   padding: 100px 0px;
@@ -29,7 +29,9 @@
 .why_bofu .contents h1{
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
 }
 .why_bofu .contents p{
   text-align: justify;

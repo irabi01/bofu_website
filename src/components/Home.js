@@ -37,6 +37,26 @@ export class Home extends Component {
             </div>
           </div>
         </div>
+        <div className="about">
+          <div className="container">
+            <h1>our speciality</h1>
+            <div className="row">
+              <div className="col-md-6 offset-md-3">
+                <div className="description">
+                  <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
+
       </div>
     )
   }
