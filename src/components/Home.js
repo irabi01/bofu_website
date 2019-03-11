@@ -39,7 +39,7 @@ export class Home extends Component {
         </div>
         <div className="about">
           <div className="container">
-            <h1>our speciality</h1>
+            <h1>About us</h1>
             <div className="row">
               <div className="col-md-6 offset-md-3">
                 <div className="description">
