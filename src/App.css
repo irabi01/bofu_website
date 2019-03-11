@@ -3,3 +3,37 @@
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
+
+
+
+/* home style */
+.home{
+  background-image:linear-gradient(rgba(0,0,0,0,7),rgba(0,0,0,0.5)), url("./images/bg1.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  color: #fff;
+}
+.why_bofu{
+  background: #ccc;
+  color: #000;
+  font-family: 'Montserrat', sans-serif;
+  padding: 100px 0px;
+}
+.why_bofu .contents{
+  text-align: center
+}
+.why_bofu .contents h1{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+.why_bofu .contents p{
+  text-align: justify;
+  color: #000;
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+}
