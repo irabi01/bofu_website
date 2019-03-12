@@ -195,3 +195,24 @@
   text-transform: capitalize;
   font-family: 'Montserrat', sans-serif;
 }
+
+
+
+/* our_projects */
+.our_projects{
+  background:#000080;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  font-weight: 700;
+  font-size: 50px;
+}
+.our_projects h1{
+  font-size: 70px;
+  color: #fff;
+  font-weight: 400;
+  text-transform: capitalize;
+  font-family: 'Montserrat', sans-serif;
+  margin-bottom: 20px;
+}
