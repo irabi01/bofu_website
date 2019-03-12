@@ -13,7 +13,7 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  padding-top: 300px;
+  padding-top: 200px;
   padding-bottom: 200px;
   color: #fff;
 }
@@ -30,7 +30,7 @@
   text-transform: capitalize;
 }
 .home .top_div{
-  width: 50%;
+  width: 30%;
   height: 30px;
   background:transparent;
   border: 3px solid #fff;
@@ -38,7 +38,7 @@
   margin: auto;
 }
 .home .bottom_div{
-  width: 50%;
+  width: 30%;
   height: 30px;
   background:transparent;
   border: 3px solid #fff;
