@@ -62,7 +62,15 @@ export class Home extends Component {
             </div>
           </div>
         </div>
-
+        <div class="quotation">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-12">
+                <h1>Constant development of new technologies</h1>
+              </div>
+            </div>
+          </div>
+        </div>
 
 
 
