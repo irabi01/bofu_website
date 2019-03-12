@@ -80,7 +80,8 @@ export class Home extends Component {
             <div className="row">
               <div className="col-md-4">
                 <div className="service_content">
-                  <i className="fa fa-cogs"></i>
+                  <i className="fa fa-home"></i>
+                  <h1>Design</h1>
                 </div>
               </div>
               <div className="col-md-4"></div>
