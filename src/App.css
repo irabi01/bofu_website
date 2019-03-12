@@ -38,7 +38,7 @@
 
 /* home style */
 .home{
-  background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.5)), url("./images/bg1.jpg");
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
