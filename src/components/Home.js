@@ -12,7 +12,7 @@ export class Home extends Component {
                 
                 <div className="top_div"></div>
                 <h2>We build the truth</h2>
-                <div className="bottom_tiv"></div>
+                <div className="bottom_div"></div>
               </div>
             </div>
           </div>
