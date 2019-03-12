@@ -80,8 +80,9 @@ export class Home extends Component {
             <div className="row">
               <div className="col-md-4">
                 <div className="service_content">
-                  <i className="fa fa-home"></i>
+                  <i class="fas fa-cogs"></i>
                   <h1>Design</h1>
+                  <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
                 </div>
               </div>
               <div className="col-md-4"></div>
