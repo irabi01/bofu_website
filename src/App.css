@@ -119,10 +119,6 @@
 
 
 
-
-
-
-
 /* about style */
 .about{
   padding: 100px 0px;
@@ -134,4 +130,21 @@
   font-family: 'Montserrat', sans-serif;
   text-transform: capitalize;
   margin-bottom: 20px;
+}
+
+
+
+/* quotation */
+.quotation{
+  background: #e9b32a;
+  padding: 100px 0px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.quotation h1{
+  font-size: 30px;
+  color: #fff;
+  font-weight: 700;
+  text-transform: capitalize;
+  font-family: 'Montserrat', sans-serif;
 }
