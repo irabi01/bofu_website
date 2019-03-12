@@ -81,7 +81,8 @@
 /* .why_bofu */
 
 .why_bofu{
-  background: rgb(241, 239, 239);
+  /* background: rgb(241, 239, 239); */
+  background: #fff;
   color: #000;
   font-family: 'Montserrat', sans-serif;
   padding: 250px 0px;
@@ -120,22 +121,33 @@
 
 
 /* about style */
-
+.about{
+  background:#000080;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
 .about h1{
-  font-size: 50px;
-  color: #000;
+  font-size: 70px;
+  color: #fff;
   font-weight: 400;
   font-family: 'Montserrat', sans-serif;
   text-transform: capitalize;
   margin-bottom: 20px;
+  text-align: justify;
+  padding-left: 40px;
 }
 .about .heading{
-  background: rgb(241, 239, 239);
+  /* background: rgb(241, 239, 239); */
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding: 200px 0px;
   overflow: hidden;
 }
 .about .description{
-  padding: 100px 0px;
+  padding: 190px 0px;
 }
 
 
