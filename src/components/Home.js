@@ -15,6 +15,15 @@ export class Home extends Component {
         </div>
         <div className="why_bofu">
           <div className="container">
+
+            <div className="row">
+              <div className="col-md-6 offset-md-3">
+                <div className="top_row">
+                  <h1>We design, We build, We Maintain</h1>
+                </div>
+              </div>
+            </div>
+
             <div className="row">
               <div className="col-md-4">
                 <div className="contents">
