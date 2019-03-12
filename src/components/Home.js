@@ -51,15 +51,17 @@ export class Home extends Component {
           </div>
         </div>
         <div className="about">
-            <div className="row">
-              <div className="col-md-6">
-                <div className="heading">
-                  <h1>About us</h1>
+            <div className="container">
+              <div className="row">
+                <div className="col-md-6">
+                  <div className="heading">
+                    <h1>About us</h1>
+                  </div>
                 </div>
-              </div>
-              <div className="col-md-6">
-                <div className="description">
-                  <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo</p>
+                <div className="col-md-6">
+                  <div className="description">
+                    <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo</p>
+                  </div>
                 </div>
               </div>
             </div>
