@@ -26,7 +26,7 @@
 #cpBtn > div{
   width: 30px;
   height: 5px;
-  background: #aa0252;
+  background: #000080;
   margin: 3px 0px;
   border-radius: 4px;
   border: none;
@@ -93,7 +93,7 @@
 .why_bofu .contents h1{
   text-align: center;
   font-family: 'Montserrat', sans-serif;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: bold;
   color: #000;
 }
@@ -102,6 +102,7 @@
   color: #000;
   font-size: 14px;
   font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
 }
 .why_bofu .top_row{
   margin-top: -350px;

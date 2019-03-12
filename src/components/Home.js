@@ -66,7 +66,7 @@ export class Home extends Component {
               </div>
             </div>
         </div>
-        <div class="quotation">
+        <div className="quotation">
           <div className="container">
             <div className="row">
               <div className="col-md-12">
@@ -75,7 +75,19 @@ export class Home extends Component {
             </div>
           </div>
         </div>
-
+        <div className="service">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-4">
+                <div className="service_content">
+                  <i className="fa fa-cogs"></i>
+                </div>
+              </div>
+              <div className="col-md-4"></div>
+              <div className="col-md-4"></div>
+            </div>
+          </div>
+        </div>
 
 
 
