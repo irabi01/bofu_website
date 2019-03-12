@@ -107,8 +107,20 @@ export class Home extends Component {
                   <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
                 </div>
               </div>
-              <div className="col-md-4"></div>
-              <div className="col-md-4"></div>
+              <div className="col-md-4">
+                <div className="service_content">
+                  <i class="fas fa-cogs"></i>
+                  <h1>Renovation</h1>
+                  <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
+                </div>
+              </div>
+              <div className="col-md-4">
+                <div className="service_content">
+                  <i class="fas fa-cogs"></i>
+                  <h1>Construction</h1>
+                  <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
