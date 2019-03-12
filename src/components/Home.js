@@ -18,7 +18,7 @@ export class Home extends Component {
         <div className="why_bofu">
           <div className="container">
             <div className="row">
-              <div className="col-md-6 offset-md-3">
+              <div className="col-md-8 offset-md-2">
                 <div className="top_row">
                   <h1>We design, We build, We Maintain</h1>
                 </div>
