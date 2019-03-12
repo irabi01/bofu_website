@@ -8,7 +8,8 @@ export class Home extends Component {
           <div className="container">
             <div className="row">
               <div className="col-md-12">
-                <h1>This is the home page.... Welcome to bofu construction limited</h1>
+                <h1>bofu construction limited</h1>
+                <h2>We build the truth</h2>
               </div>
             </div>
           </div>
