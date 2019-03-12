@@ -9,7 +9,7 @@ export class Navigation extends Component {
             <Link className="navbar-brand" to="#">Bofu Logo</Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 {/* <span className="navbar-toggler-icon"></span> */}
-                <i className="fa fa-menu"></i>
+                <i className="fa fa-list"></i>
             </button>
 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
