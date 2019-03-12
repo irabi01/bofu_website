@@ -162,6 +162,16 @@ export class Home extends Component {
             </div>
           </div>
         </div>
+        <div className="parallax">
+          <div className="container">
+            <div className="row">
+              <div className="col-md-4">
+                <i className="fas fa-list"></i>
+                <h1>Poject done</h1>
+              </div>
+            </div>
+          </div>
+        </div>
 
 
 
