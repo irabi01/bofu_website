@@ -84,7 +84,7 @@
   background: rgb(241, 239, 239);
   color: #000;
   font-family: 'Montserrat', sans-serif;
-  padding: 100px 0px;
+  padding: 250px 0px;
 }
 .why_bofu .contents{
   text-align: center
@@ -103,12 +103,14 @@
   font-family: 'Montserrat', sans-serif;
 }
 .why_bofu .top_row{
-  margin-top: -170px;
-  background:#fff;
-  color: #000;
+  margin-top: -350px;
+  background:#000080;
+  color: #fff;
   font-family: 'Montserrat', sans-serif;
-  padding-bottom: 50px;
-  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  font-weight: 700;
+  font-size: 50px;
 }
 .why_bofu .top_row h1{
   font-size: 30px;
