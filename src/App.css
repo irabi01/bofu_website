@@ -17,6 +17,24 @@
   padding-bottom: 200px;
   color: #fff;
 }
+.home h1{
+  font-size: 70px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: capitalize;
+}
+.home h2{
+  font-size: 50px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: capitalize;
+}
+
+
+
+
+/* .why_bofu */
+
 .why_bofu{
   background: rgb(241, 239, 239);
   color: #000;
