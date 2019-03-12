@@ -181,3 +181,17 @@
   background: #fff;
   padding: 200px 0px;
 }
+.service h1{
+  font-size: 70px;
+  color: #000;
+  font-weight: 400;
+  text-transform: capitalize;
+  font-family: 'Montserrat', sans-serif;
+}
+.service .service_content h1{
+  font-size: 30px;
+  color: #000;
+  font-weight: 400;
+  text-transform: capitalize;
+  font-family: 'Montserrat', sans-serif;
+}

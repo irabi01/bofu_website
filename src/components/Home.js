@@ -77,6 +77,7 @@ export class Home extends Component {
         </div>
         <div className="service">
           <div className="container">
+            <h1>Our services</h1>
             <div className="row">
               <div className="col-md-4">
                 <div className="service_content">
