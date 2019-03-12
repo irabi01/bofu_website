@@ -29,7 +29,22 @@
   font-family: 'Montserrat', sans-serif;
   text-transform: capitalize;
 }
-
+.home .top_div{
+  width: 50%;
+  height: 30px;
+  background:transparent;
+  border: 3px solid #fff;
+  border-bottom: none;
+  margin: auto;
+}
+.home .bottom_div{
+  width: 50%;
+  height: 30px;
+  background:transparent;
+  border: 3px solid #fff;
+  border-top: none;
+  margin: auto;
+}
 
 
 
