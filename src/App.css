@@ -20,6 +20,21 @@
   font-size: 18px;
   font-family: 'Montserrat', sans-serif;
 }
+#cpBtn{
+  padding: 2px 5px;
+}
+#cpBtn > div{
+  width: 30px;
+  height: 5px;
+  background: #aa0252;
+  margin: 3px 0px;
+  border-radius: 4px;
+  border: none;
+  outline: 0;
+}
+
+
+
 
 /* home style */
 .home{
