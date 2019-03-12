@@ -176,3 +176,8 @@
   text-transform: capitalize;
   font-family: 'Montserrat', sans-serif;
 }
+
+.service{
+  background: #fff;
+  padding: 200px 0px;
+}
