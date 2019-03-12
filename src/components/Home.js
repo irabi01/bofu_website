@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+// import {Router,tLink} from 'react-router-dom'
 
 export class Home extends Component {
   render() {
@@ -120,6 +121,11 @@ export class Home extends Component {
                   <h1>Construction</h1>
                   <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
                 </div>
+              </div>
+            </div>
+            <div className="row">
+              <div class="col-md-4 offset-md-4">
+                 <a href="/" className="service_link">More services</a>
               </div>
             </div>
           </div>
