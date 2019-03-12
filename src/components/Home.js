@@ -131,7 +131,37 @@ export class Home extends Component {
           </div>
         </div>
 
-
+        <div className="our_projects">
+          <div className="container">
+            <h1>Our Projects</h1>
+            <div className="row">
+              <div className="col-md-3">
+               <img src={require('../images/bg1.jpg')} className="img-fluid" alt=""/>
+              </div>
+              <div className="col-md-3">
+               <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
+              </div>
+              <div className="col-md-3">
+               <img src={require('../images/bg1.jpg')} className="img-fluid" alt=""/>
+              </div>
+              <div className="col-md-3">
+               <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
+              </div>
+              <div className="col-md-3">
+               <img src={require('../images/ramani.jpg')} className="img-fluid" alt=""/>
+              </div>
+              <div className="col-md-3">
+               <img src={require('../images/bg1.jpg')} className="img-fluid" alt=""/>
+              </div>
+              <div className="col-md-3">
+               <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
+              </div>
+              <div className="col-md-3">
+               <img src={require('../images/bg1.jpg')} className="img-fluid" alt=""/>
+              </div>
+            </div>
+          </div>
+        </div>
 
 
 
