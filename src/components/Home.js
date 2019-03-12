@@ -171,17 +171,17 @@ export class Home extends Component {
                 <h1>Pojects done</h1>
               </div>
               <div className="col-md-3">
-                <i className="fas fa-list"></i>
+                <i className="fas fa-align-center"></i>
                 <h2>100+</h2>
                 <h1>Ongoing Projects</h1>
               </div>
               <div className="col-md-3">
-                <i className="fas fa-list"></i>
+                <i className="fas fa-user"></i>
                 <h2>400+</h2>
                 <h1>Happy Clients</h1>
               </div>
               <div className="col-md-3">
-                <i className="fas fa-list"></i>
+                <i className="fas fa-user-clock"></i>
                 <h2>24/7/365</h2>
                 <h1>Working Hours</h1>
               </div>
