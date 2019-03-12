@@ -13,9 +13,9 @@ export class Home extends Component {
             </div>
           </div>
         </div>
+
         <div className="why_bofu">
           <div className="container">
-
             <div className="row">
               <div className="col-md-6 offset-md-3">
                 <div className="top_row">
