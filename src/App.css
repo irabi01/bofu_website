@@ -145,7 +145,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   padding: 200px 0px;
-  overflow: hidden;
 }
 .about .description{
   padding: 190px 0px;
@@ -215,4 +214,25 @@
   text-transform: capitalize;
   font-family: 'Montserrat', sans-serif;
   margin-bottom: 20px;
+}
+
+
+/* parallax */
+.parallax{
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 200px 0px;
+}
+.parallax i{
+  font-size: 50px;
+  color: #fff;
+}
+.parallax h1{
+  font-size: 50px;
+  color: #fff;
+  text-transform: capitalize;
+  font-family: 'Montserrat', sans-serif;
 }
