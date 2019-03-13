@@ -301,6 +301,72 @@
   color: #fff;
 }
 
+.other_contents{
+  padding: 100px 0px;
+}
+.about_box{
+  text-align: center;
+  padding: 35px 15px;
+  overflow: hidden;
+  position: relative;
+  transition: All 0.3s ease 0s;
+}
+.about_box:hover{
+  background: #3399ff;
+}
+.about_box:before{
+  content: "";
+  width: 40px;
+  height: 40px;
+  border-width: 20px;
+  border-style: solid;
+  border-color: white white rgba(1, 1, 1, 0.2) rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: -40px;
+  right: -40px;
+  transition: All 0.3s ease 0s;
+}
+.about_box:hover:before{
+  top: 0px;
+  right: 0px;
+}
+.service_box i{
+  display: block;
+  font-size: 65px;
+  color: #3399ff;
+  margin-bottom: 14px;
+  transition: All 0.3s ease 0s;
+}
+.about_box .title{
+  font-size: 20px;
+  font-weight: 900;
+  color: #545454;
+  line-height: 25px;
+  text-transform: capitalize;
+  margin: 0 0 16px 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.about_box .description{
+  font-size: 15px;
+  color: #545454;
+  line-height: 25px;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.about_box:hover i, .about_box:hover .title, .about_box:hover .description{
+  color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* footer container */

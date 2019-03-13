@@ -35,21 +35,21 @@ export class About extends Component {
             <div className="container">
                 <div className="row">
                     <div className="col-md-4">
-                        <div className="vision">
-                            <h1>Vision</h1>
-                            <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
+                        <div className="about_box">
+                            <h1 className="title">Vision</h1>
+                            <p className="description">Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
                         </div>
                     </div>
                     <div className="col-md-4">
-                        <div className="mission">
-                            <h1>Mission</h1>
-                            <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
+                        <div className="about_box">
+                            <h1 className="title">Mission</h1>
+                            <p className="description">Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
                         </div>
                     </div>
                     <div className="col-md-4">
-                        <div className="objective">
-                            <h1>Objective</h1>
-                            <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
+                        <div className="about_box">
+                            <h1 className="title">Objective</h1>
+                            <p className="description">Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
                         </div>
                     </div>
                 </div>
