@@ -260,7 +260,20 @@
   font-size: 70px;
   color: #fff;
 }
-
+.about_content{
+  padding: 100px 0px;
+}
+.about_content .about_desc{
+  text-align: justify;
+  background: #e9b32a;
+  padding: 50px 10px;
+  margin-left: -200px;
+  margin-right: 50px;
+  margin-top: 100px;
+  color: #fff;
+  font-size: 14;
+  font-family: 'Montserrat', sans-serif;
+}
 
 
 /* services page */
