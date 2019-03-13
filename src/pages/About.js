@@ -31,6 +31,32 @@ export class About extends Component {
                 </div>
             </div>
         </div>
+        <div className="other_contents">
+            <div className="container">
+                <div className="row">
+                    <div className="col-md-4">
+                        <div className="vision">
+                            <h1>Vision</h1>
+                            <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
+                        </div>
+                    </div>
+                    <div className="col-md-4">
+                        <div className="mission">
+                            <h1>Mission</h1>
+                            <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
+                        </div>
+                    </div>
+                    <div className="col-md-4">
+                        <div className="objective">
+                            <h1>Objective</h1>
+                            <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
       </div>
     )
   }

@@ -266,13 +266,23 @@
 .about_content .about_desc{
   text-align: justify;
   background: #e9b32a;
-  padding: 50px 10px;
+  padding: 20px 10px;
   margin-left: -200px;
   margin-right: 50px;
   margin-top: 70px;
+  font-family: 'Montserrat', sans-serif;
+}
+.about_content .about_desc h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  color: #fff;
+  text-transform: capitalize;
+  text-align: center;
+}
+.about_content .about_desc p{
+  font-family: 'Montserrat', sans-serif;
   color: #fff;
   font-size: 14;
-  font-family: 'Montserrat', sans-serif;
 }
 
 
