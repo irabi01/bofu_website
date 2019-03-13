@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Footer from './Footer';
+
 // import {Router,tLink} from 'react-router-dom'
 
 export class Home extends Component {
@@ -189,8 +189,7 @@ export class Home extends Component {
             </div>
           </div>
         </div>
-        <Footer/>
-
+      
 
       </div>
     )

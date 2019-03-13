@@ -7,6 +7,7 @@ import About from './pages/About';
 import Services from './pages/Services'
 import Showcase from './pages/Showcase';
 import Contact from './pages/Contact';
+import Footer from './components/Footer';
 
 
 class App extends Component {
@@ -22,6 +23,7 @@ class App extends Component {
             <Route path="/showcases" component = {Showcase}/>
             <Route path="/contact" component = {Contact}/>
           </Switch>
+          <Footer/>
         </div>
       </Router>
     );
