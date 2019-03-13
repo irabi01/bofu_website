@@ -24,6 +24,7 @@ export class About extends Component {
                     </div>
                     <div className="col-md-6">
                         <div className="about_desc">
+                            <h1>about bofu</h1>
                             <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri e li assemblò per preparare un testo campione.</p>
                         </div>
                     </div>
