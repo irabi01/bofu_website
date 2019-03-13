@@ -125,6 +125,7 @@ export class Home extends Component {
                 </div>
               </div>
             </div>
+            <br/>
             <div className="row">
               <div class="col-md-4 offset-md-4">
                  <Link to="/services" className="service_link">More services</Link>
@@ -164,7 +165,7 @@ export class Home extends Component {
             </div>
             <div className="row">
               <div className="col-md-12">
-                <Link to="/showcases" className="portfolio_link">More Project</Link>
+                <Link to="/showcases" className="portfolio_link">More Projects</Link>
               </div>
             </div>
           </div>
