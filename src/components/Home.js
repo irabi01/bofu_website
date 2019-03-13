@@ -164,7 +164,7 @@ export class Home extends Component {
             </div>
             <div className="row">
               <div className="col-md-12">
-                <Link to="/showcases" className="service_link">More services</Link>
+                <Link to="/showcases" className="portfolio_link">More Project</Link>
               </div>
             </div>
           </div>
