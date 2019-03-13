@@ -6,7 +6,7 @@ export class Navigation extends Component {
     return (
       <div>
           <nav className="navbar navbar-expand-lg navigation fixed-top">
-            <Link className="navbar-brand" to="#">Bofu Logo</Link>
+            <Link className="navbar-brand" to="/">Bofu Logo</Link>
             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" id="cpBtn">
                 <div></div>
                 <div></div>
@@ -16,19 +16,19 @@ export class Navigation extends Component {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
                     <li className="nav-item">
-                        <Link className="nav-link" to="#">Home</Link>
+                        <Link className="nav-link" to="/">Home</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="#">About</Link>
+                        <Link className="nav-link" to="/about">About</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="#">Services</Link>
+                        <Link className="nav-link" to="/service">Services</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="#">Showcase</Link>
+                        <Link className="nav-link" to="/showcases">Showcase</Link>
                     </li>
                     <li className="nav-item">
-                        <Link className="nav-link" to="#">Contacts</Link>
+                        <Link className="nav-link" to="/contact">Contacts</Link>
                     </li>
                     </ul>
                 </div>

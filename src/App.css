@@ -246,6 +246,40 @@
 
 
 
+/* about_page */
+.about_page{
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 200px 0px;
+}
+.about_page h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 70px;
+  color: #fff;
+}
+
+
+
+/* services page */
+.services{
+  background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 200px 0px;
+}
+.services h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 70px;
+  color: #fff;
+}
+
+
+
 /* footer container */
 .footer_container{
   text-align: center;
