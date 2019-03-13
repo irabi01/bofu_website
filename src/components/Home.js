@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import {Link} from 'react-router-dom'
 
 // import {Router,tLink} from 'react-router-dom'
 
@@ -126,7 +127,7 @@ export class Home extends Component {
             </div>
             <div className="row">
               <div class="col-md-4 offset-md-4">
-                 <a href="/" className="service_link">More services</a>
+                 <Link to="/services" className="service_link">More services</Link>
               </div>
             </div>
           </div>
@@ -159,6 +160,11 @@ export class Home extends Component {
               </div>
               <div className="col-md-3">
                <img src={require('../images/bg1.jpg')} className="img-fluid" alt=""/>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-12">
+                <Link to="/showcases" className="service_link">More services</Link>
               </div>
             </div>
           </div>
