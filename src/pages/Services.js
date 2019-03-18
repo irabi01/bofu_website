@@ -13,6 +13,15 @@ export class Services extends Component {
             </div>
         </div>
       </div>
+      <div className="services_quotation">
+        <div className="container">
+          <div className="col-md-12">
+            <div className="row">
+              <h2>We ensure the best and reliable service</h2>
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="service_list">
           <div className="row">
             <div className="col-md-6">
@@ -32,6 +41,36 @@ export class Services extends Component {
               <i class="fas fa-cogs"></i>
               <h1>Renovation</h1>
               <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-md-6">
+              <i class="fas fa-cogs"></i>
+              <h1>Renovation</h1>
+              <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
+            </div>
+            <div className="col-md-6">
+              <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-md-6">
+              <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
+            </div>
+            <div className="col-md-6">
+              <i class="fas fa-cogs"></i>
+              <h1>Renovation</h1>
+              <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-md-6">
+              <i class="fas fa-cogs"></i>
+              <h1>Renovation</h1>
+              <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
+            </div>
+            <div className="col-md-6">
+              <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
             </div>
           </div>
       </div>
