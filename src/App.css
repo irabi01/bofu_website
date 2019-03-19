@@ -89,6 +89,22 @@
     font-family: 'Montserrat', sans-serif;
     text-transform: capitalize;
   }
+  .home .top_div{
+    width: 40%;
+    height: 30px;
+    background:transparent;
+    border: 3px solid #fff;
+    border-bottom: none;
+    margin: auto;
+  }
+  .home .bottom_div{
+    width: 40%;
+    height: 30px;
+    background:transparent;
+    border: 3px solid #fff;
+    border-top: none;
+    margin: auto;
+  }
 } 
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -145,6 +161,50 @@
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .why_bofu .top_row{
+    margin-top: -350px;
+    background:#000080;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    font-weight: 700;
+    font-size: 50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .why_bofu .top_row h1{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .why_bofu .contents p{
+    text-align: center;
+    color: #000;
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+
+
+
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
 
 
 
@@ -176,6 +236,46 @@
 .about .description{
   padding: 190px 0px;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .about h1{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+    text-align: justify;
+    padding-left: 40px;
+  }
+  .about .heading{
+    /* background: rgb(241, 239, 239); */
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+  }
+  .about .description{
+    padding: 100px 0px;
+  }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
+
+
 
 
 
@@ -194,7 +294,40 @@
   text-transform: capitalize;
   font-family: 'Montserrat', sans-serif;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .quotation{
+    background: #e9b32a;
+    padding: 100px 0px;
+    text-align: center;
+    text-transform: capitalize;
+  }
+  .quotation h1{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+  }
+} 
 
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
+
+
+
+
+/* service part */
 .service{
   background: #fff;
   padding: 200px 0px;
@@ -223,6 +356,54 @@
   text-decoration: none;
   margin-top: 20px;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .service{
+    background: #fff;
+    padding: 100px 0px;
+  }
+  .service h1{
+    font-size: 50px;
+    color: #000;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .service .service_content h1{
+    font-size: 30px;
+    color: #000;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .service .service_link{
+    background: transparent;
+    border: 1px solid #e9b32a;
+    color: #000;
+    font-size: 15px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 20px;
+  }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
+
+
+
+
 
 
 /* our_projects */
@@ -252,6 +433,48 @@
   border-radius: 20px;
   text-decoration: none;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .our_projects{
+    background:#000080;
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    /* font-weight: 700; */
+    font-size: 50px;
+  }
+  .our_projects h1{
+    font-size: 50px;
+    color: #fff;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+  }
+  .our_projects .portfolio_link{
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 15px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    text-decoration: none;
+  }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
 
 
 
