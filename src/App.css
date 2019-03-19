@@ -511,6 +511,14 @@
 }
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+  .parallax{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+  }
   .parallax i{
     font-size: 20px;
     color: #fff;
@@ -591,6 +599,43 @@
   color: #fff;
   font-size: 14;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .about_page h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    color: #fff;
+  }
+  .about_content img{
+    display: none;
+  }
+  .about_content .about_desc{
+    text-align: justify;
+    background: #e9b32a;
+    padding: 20px 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 70px;
+    font-family: 'Montserrat', sans-serif;
+  }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
+
+
+
+
 
 
 /* services page */
@@ -706,6 +751,46 @@
 .about_box:hover i, .about_box:hover .title, .about_box:hover .description{
   color: #fff;
 }
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .other_contents{
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./images/bg2.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0px;
+  }
+  .about_box .title{
+    font-size: 20px;
+    font-weight: 900;
+    color: #fff;
+    line-height: 25px;
+    text-transform: capitalize;
+    margin: 0 0 16px 0;
+    font-family: 'Montserrat', sans-serif;
+  }
+  .about_box .description{
+    font-size: 15px;
+    color: #fff;
+    line-height: 25px;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+  }
+} 
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {} 
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {} 
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {} 
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {}
+
 
 
 
