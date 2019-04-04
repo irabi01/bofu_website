@@ -23,7 +23,7 @@ export class Services extends Component {
         </div>
       </div>
       <div className="service_list">
-          <div className="row">
+          <div className="row no-gutters">
             <div className="col-md-6">
               <i class="fas fa-cogs"></i>
               <h1>Renovation</h1>
@@ -33,7 +33,7 @@ export class Services extends Component {
               <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
             </div>
           </div>
-          <div className="row">
+          <div className="row no-gutters">
             <div className="col-md-6">
               <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
             </div>
@@ -43,7 +43,7 @@ export class Services extends Component {
               <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
             </div>
           </div>
-          <div className="row">
+          <div className="row no-gutters">
             <div className="col-md-6">
               <i class="fas fa-cogs"></i>
               <h1>Renovation</h1>
@@ -53,7 +53,7 @@ export class Services extends Component {
               <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
             </div>
           </div>
-          <div className="row">
+          <div className="row no-gutters">
             <div className="col-md-6">
               <img src={require('../images/bg2.jpg')} className="img-fluid" alt=""/>
             </div>
@@ -63,7 +63,7 @@ export class Services extends Component {
               <p>Lorem Ipsum è un testo segnaposto utilizzato nel settore della</p>
             </div>
           </div>
-          <div className="row">
+          <div className="row no-gutters">
             <div className="col-md-6">
               <i class="fas fa-cogs"></i>
               <h1>Renovation</h1>

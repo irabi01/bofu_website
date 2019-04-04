@@ -11,7 +11,7 @@ export class About extends Component {
                         <h1>About Bofu</h1>
                     </div>
                     <div className="col-md-6">
-                        <h1>Images here</h1>
+                    <img src={require('../images/img35.jpeg')} className="img-fluid" alt=""/>
                     </div>
                 </div>
             </div>
